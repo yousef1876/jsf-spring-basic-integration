@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Survy
+Implementation-Version: 1.0.0-BUILD-SNAPSHOT
+Built-By: yataya
+Implementation-Vendor-Id: org.springframework.webflow.samples
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/primefaces-s
+ howcase/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
